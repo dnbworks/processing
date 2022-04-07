@@ -1,0 +1,52 @@
+
+
+hsb
+255.0 * hue / 359.0
+255.0 * saturation / 99.0
+255.0 * brightness / 99.0
+or
+0.7 * hue 
+2.6 * saturation 
+2.6 * brightness 
+
+colorMode(HSB);
+fill(50*.7, 100*2.6, 150*2.6);
+colorMode(RGB);
+
+fill(70, 210, 200);
+stroke9140, 50, 170);
+
+transparentcy
+
+
+color clr = color(100, 150, 200, 250);
+r,g,b, t
+
+grays
+fill(75); shortcut
+
+size(400, 400);
+background(200);
+stroke(0);
+fill(100);
+rect(50,50,300,300);
+
+fill and stroke
+
+strokeWeight(10);
+strokeWeight(1);
+stroke(200,0,0); color
+noStroke();
+
+stroke(200,0,0); color
+noFill();
+ex
+fill(200,0,0);
+rect();
+
+noFill();
+rect();
+
+fill(0,200,0); 
+rect();
+smooth(); draw everything nice and smooth
