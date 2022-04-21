@@ -5,10 +5,11 @@ void setup() {
 
 void draw() {
   //background(64);
+  noFill();
   float r = (frameCount/5.0);
   float g = 255-(frameCount/5.0);
   float b = 2*r;
-  fill(r, g, b);
+  stroke(r, g, b);
   float cx = 100+(frameCount/5.0);
   float cy = cx + 50;
   float w = 100-(frameCount/2.0);
